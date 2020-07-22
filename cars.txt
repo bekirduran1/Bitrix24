@@ -4,5 +4,5 @@ BMW
 Mercedes
 Doğan
 Şahin
-Bentley
-Ferrari
+BENTLEY
+FERRARI
