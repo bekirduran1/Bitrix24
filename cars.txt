@@ -4,5 +4,7 @@ BMW
 Mercedes
 Doğan
 Şahin
+ferrari
+bentley
 fORd
 jEEp
