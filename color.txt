@@ -3,5 +3,6 @@ pink
 green
 yellow
 lacivert
+kardeşş
 
 
