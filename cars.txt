@@ -5,6 +5,7 @@ Mercedes
 Doğan
 Şahin
 ferrari
-BENTLEY
+bentley
+FORD
 bentley
 
