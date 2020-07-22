@@ -4,6 +4,5 @@ BMW
 Mercedes
 Doğan
 Şahin
-FORD
-JEEP
-
+ford
+jeep
