@@ -6,3 +6,5 @@ Doğan
 Şahin
 Ford
 Jeep
+Bentley
+Ferrari
