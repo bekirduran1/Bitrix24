@@ -2,5 +2,8 @@ red
 pink
 green
 yellow
+<<<<<<< HEAD
 blue
 blue
+=======
+>>>>>>> 36c5b0af5acd5795ebc23aa3ebe6884a486ab873
