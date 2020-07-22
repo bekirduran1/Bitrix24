@@ -4,7 +4,6 @@ BMW
 Mercedes
 Doğan
 Şahin
-Ford
-Jeep
-Bentley
-Ferrari
+FORD
+JEEP
+
